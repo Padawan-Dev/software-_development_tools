@@ -1,0 +1,10 @@
+
+[verificar se tem o curl instalado]
+
+[se ja tiver instalado, seguir esse comando]
+curl - fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash -
+
+sudo apt install -y nodejs
+
+node --version
+
